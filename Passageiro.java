@@ -20,4 +20,7 @@ public class Passageiro extends Pessoa {
 	}
 	
 	
+	System.out.print("wololo");
+	
 }
+
